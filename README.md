@@ -1,6 +1,7 @@
 ## Adafruit AMG8833 Breakout PCB
 
-<a href="http://www.adafruit.com/products/3528"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/3538"><img src="assets/3538.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/3538"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit AMG8833 8x8 IR sensor breakout board. Format is EagleCAD schematic and board layout
